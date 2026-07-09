@@ -57,7 +57,7 @@ Designed for **security researchers, bug bounty hunters, penetration testers, CT
 ## ▶️ Usage
 
 ```bash
-python dork.py
+Download the oldest file named: GD_OSINT.py
 ```
 
 Select one of the available search categories, provide the requested input, and the tool will automatically launch multiple Google Dork queries in your default browser.
