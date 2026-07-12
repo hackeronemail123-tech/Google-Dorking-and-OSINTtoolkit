@@ -56,8 +56,8 @@ Designed for **security researchers, bug bounty hunters, penetration testers, CT
 
 ## ▶️ Usage
 
-Copy the code from the the oldest file named: GD_OSINT.py
-
+Copy the code from the file named: GD_OSINT.py
+(Tap on the letters)
 
 Select one of the available search categories, provide the requested input, and the tool will automatically launch multiple Google Dork queries in your default browser.
 
