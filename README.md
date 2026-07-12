@@ -1,4 +1,4 @@
-# 🔎 Google Dork Automation Tool
+# 🔎 Google Dork - OSINT Tool
 
 A lightweight Python utility that automates **Google Dork** queries for **OSINT, reconnaissance, and defensive security research**. Instead of manually crafting dozens of search operators, simply choose a search category, enter your target, and let the tool generate and launch a curated collection of advanced Google searches.
 
